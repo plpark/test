@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-// ver6
 public class Test {
 	public static void main(String[] args) {
 		List<TempDto> list = new ArrayList<TempDto>();
